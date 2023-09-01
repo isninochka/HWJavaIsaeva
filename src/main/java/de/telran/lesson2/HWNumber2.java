@@ -1,6 +1,6 @@
 package de.telran.lesson2;
 
-public class HWNumber {
+public class HWNumber2 {
     public static void main(String[] args){
     int x = 457;
 
