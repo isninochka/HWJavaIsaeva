@@ -3,7 +3,8 @@ package de.telran.lesson4;
 public class HWLesson4First {
     public static void main(String[] args) {
         String study = new String("I study Basic Java!");
-        System.out.println("last symbol is  "+ study.charAt(17));
+        System.out.println(study.length ());
+        System.out.println("Second last symbol is  "+ study.charAt(17));
 
         String string = "I study Basic Java!";
         String substring = "Java";
