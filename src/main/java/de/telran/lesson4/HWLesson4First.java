@@ -3,8 +3,12 @@ package de.telran.lesson4;
 public class HWLesson4First {
     public static void main(String[] args) {
         String study = new String("I study Basic Java!");
+
+        int studyLength = study.length();
+
         System.out.println(study.length ());
-        System.out.println("Second last symbol is  "+ study.charAt(17));
+
+        System.out.println("Second last symbol is  "+ study.charAt(studyLength-2));
 
         String string = "I study Basic Java!";
         String substring = "Java";
