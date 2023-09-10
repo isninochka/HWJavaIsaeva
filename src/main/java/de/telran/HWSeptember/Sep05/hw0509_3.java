@@ -2,11 +2,11 @@ package de.telran.HWSeptember.Sep05;
 
 import java.util.Scanner;
 
-public class HW0509_3 {
+public class hw0509_3 {
 
     public static void main(String[] args) {
 
-      MathMethods mathMethods = new MathMethods();
+      mathMethods mathMethods = new mathMethods();
 
         Scanner scanner1 = new Scanner(System.in);
         System.out.println("Введите первое число   " );

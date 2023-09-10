@@ -2,7 +2,7 @@ package de.telran.HWSeptember.Sep05;
 
 import java.util.Scanner;
 
-public class HW0509_2 {
+public class hw0509_2 {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);

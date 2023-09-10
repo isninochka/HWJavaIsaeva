@@ -1,6 +1,6 @@
 package de.telran.HWSeptember.Sep05;
 
-public class HW0509_1 {
+public class hw0509_1 {
     public static void main(String[] args) {
         String study = new String("I study Basic Java!");
 

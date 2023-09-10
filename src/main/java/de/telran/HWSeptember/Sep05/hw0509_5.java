@@ -2,7 +2,7 @@ package de.telran.HWSeptember.Sep05;
 
 import java.util.Scanner;
 
-public class HW0509_5 {
+public class hw0509_5 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Введите сумму в евро, которую вы хотите перевести в доллары США -   ");

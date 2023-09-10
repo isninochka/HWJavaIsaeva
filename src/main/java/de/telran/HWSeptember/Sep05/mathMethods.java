@@ -1,9 +1,7 @@
 package de.telran.HWSeptember.Sep05;
 
-import java.util.Scanner;
 
-
-public class MathMethods {
+public class mathMethods {
 
 
 

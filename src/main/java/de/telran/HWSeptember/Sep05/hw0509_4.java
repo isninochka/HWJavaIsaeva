@@ -1,8 +1,6 @@
 package de.telran.HWSeptember.Sep05;
 
-import java.util.Scanner;
-
-public class HW0509_4 {
+public class hw0509_4 {
     public static void main(String[] args) {
 
         long num16 = Long.parseLong("333", 16);
