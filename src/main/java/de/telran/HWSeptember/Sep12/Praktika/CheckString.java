@@ -1,10 +1,10 @@
 package de.telran.HWSeptember.Sep12.Praktika;
 
-import lesson12.CheckNumbers;
+import de.telran.HWSeptember.Sep12.Praktika.CheckNumbers;
 
 public class CheckString {
 
-    public boolean checkText (String userText){
+    public boolean checkString (String userText){
         int stringLength = userText.length();
 
         CheckNumbers checkNumbers = new CheckNumbers();

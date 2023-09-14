@@ -7,7 +7,7 @@ public class CheckStringDemo {
         String userText = textInput.inputStringLine();
 
         CheckString checkString = new CheckString();
-        boolean checkResult = checkString.checkText(userText);
+        boolean checkResult = checkString.checkString(userText);
 
         TextOutput textOutput = new TextOutput();
         textOutput.printInfo(userText, checkResult);
