@@ -4,7 +4,6 @@ public class hw0709_1 {
     public static void main(String[] args) {
         UserInput ui = new UserInput();
         int userInt;
-        String userText = ";";
 
         System.out.println("Is it weekend?");
 
