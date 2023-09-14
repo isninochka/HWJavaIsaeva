@@ -41,11 +41,5 @@ public class hw0709_1 {
 
             }
 
-//        Простой и скучный вариант:
-//        boolean isWeekend = true;
-//        boolean isRain = false;
-//        boolean canWalk = isWeekend && isRain;
-//        System.out.println("It is weekend and not raining, i can walking" + canWalk);
-//
  }
 }

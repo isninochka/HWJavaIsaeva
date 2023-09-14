@@ -1,15 +1,55 @@
 package de.telran.HWSeptember.Sep07;
 
+import java.util.Scanner;
+
 public class hw0709_2 {
     public static void main(String[] args) {
 
-        boolean isEdekaOpen = true;
-        boolean isReweOpen = false;
-        boolean canBuy = canBuyEtwas(isReweOpen, isEdekaOpen);
+        UserInput ui = new UserInput();
 
-        String answer = "Я могу купить еду, это " + (canBuy ? "да" : "нет");
-    }
-    public static boolean canBuyEtwas (boolean isEdekaOpen, boolean isReweOpen){
-        return isReweOpen||isEdekaOpen;
+
+        System.out.println("Is Rewe open?");
+
+        System.out.println("1.Yes");
+        System.out.println("2.No");
+
+
+        int isReweOpen;
+        isReweOpen = ui.userInputInt();
+
+
+        if (isReweOpen ==1) {
+            System.out.println("You can buy anything");}
+
+        else if (isReweOpen == 2){
+
+                System.out.println("Is Edeka open?");
+
+                System.out.println("1.Yes");
+                System.out.println("2.No");
+        }
+        int isEdekaOpen;
+        isEdekaOpen = ui.userInputInt();
+
+
+        switch (isEdekaOpen) {
+
+            case 1:
+
+                System.out.println("You can buy anything");
+                break;
+
+            case 2:
+
+                System.out.println("All shops are closed!");
+        }
     }
 }
+
+
+
+
+
+
+
+
