@@ -27,6 +27,7 @@ public class HW0919_2 {
             }
             }
         if (check) {
+
             System.out.println("Массив является строго возрастающей последовательностью");
         }else{
 
