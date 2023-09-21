@@ -9,10 +9,7 @@ public class HW0919_2 {
 //    массив строго возрастающей последовательностью.
     public static void main(String[] args) {
         Random random = new Random();
-
-
         int arraySize = 5;
-
 
         int[] intArray = new int[arraySize];
 
@@ -22,7 +19,6 @@ public class HW0919_2 {
             intArray[i] = random.nextInt(100 - 10);
             System.out.print(intArray[i] + ",");
         }
-
         boolean check = true;
         for (int i = 1; i < intArray.length; i++) {
             if (intArray[i]<=intArray[i-1]) {
