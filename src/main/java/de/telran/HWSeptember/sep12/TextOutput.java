@@ -1,4 +1,4 @@
-package de.telran.HWSeptember.Sep12.Praktika;
+package de.telran.HWSeptember.sep12;
 
 public class TextOutput {
     public void printInfo (String userText, boolean checkResult){

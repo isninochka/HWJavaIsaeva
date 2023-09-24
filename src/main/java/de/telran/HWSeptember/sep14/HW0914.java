@@ -1,6 +1,6 @@
-package de.telran.HWSeptember.Sep14;
+package de.telran.HWSeptember.sep14;
 
-import de.telran.HWSeptember.Sep07.UserInput;
+import de.telran.HWSeptember.sep07.UserInput;
 
 public class HW0914 {
 

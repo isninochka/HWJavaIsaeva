@@ -1,6 +1,4 @@
-package de.telran.HWSeptember.Sep12.Praktika;
-
-import de.telran.HWSeptember.Sep12.Praktika.CheckNumbers;
+package de.telran.HWSeptember.sep12;
 
 public class CheckString {
 

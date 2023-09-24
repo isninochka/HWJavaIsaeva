@@ -1,4 +1,4 @@
-package de.telran.HWSeptember.Sep05;
+package de.telran.HWSeptember.sep05;
 
 public class hw0509_1 {
     public static void main(String[] args) {

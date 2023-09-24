@@ -1,4 +1,4 @@
-package de.telran.HWSeptember.Sep12.Praktika;
+package de.telran.HWSeptember.sep12;
 
 public class CheckNumbers {
     public boolean isEven(int number) {

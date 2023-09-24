@@ -1,4 +1,4 @@
-package de.telran.HWSeptember.Sep07;
+package de.telran.HWSeptember.sep07;
 
 import java.util.Scanner;
 
@@ -7,6 +7,7 @@ import java.util.Scanner;
             Scanner scanner = new Scanner(System.in);
             int input = scanner.nextInt();
             return input;
+
         }
         public double userInputDouble(){
             Scanner scanner = new Scanner(System.in);

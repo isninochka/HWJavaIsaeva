@@ -1,4 +1,4 @@
-package de.telran.HWSeptember.Sep12.Praktika;
+package de.telran.HWSeptember.sep12;
 
 import java.util.Scanner;
 

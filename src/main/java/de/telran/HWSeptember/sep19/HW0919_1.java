@@ -1,4 +1,4 @@
-package de.telran.HWSeptember.Sep19;
+package de.telran.HWSeptember.sep19;
 
 import java.util.Arrays;
 import java.util.Random;

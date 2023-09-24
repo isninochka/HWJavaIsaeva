@@ -1,6 +1,4 @@
-package de.telran.HWSeptember.Sep07;
-
-import java.util.Scanner;
+package de.telran.HWSeptember.sep07;
 
 public class hw0709_2 {
     public static void main(String[] args) {
