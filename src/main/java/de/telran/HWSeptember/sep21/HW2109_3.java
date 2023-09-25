@@ -28,15 +28,16 @@ public class HW2109_3 {
                 maxArrayNum = intArray[i];
 
 
-                System.out.println("Максимальное число массива : " + maxArrayNum);
+
 
                 if (intArray[i] >= maxArrayNum) {
                     maxArrayNum = intArray[i];
                     indexMaxNum = i;
 
                 }
-                System.out.println("и имеет индекс: " + indexMaxNum);
+             }
 
-
-            }
-        }   }   }
+        }
+           System.out.println("Максимальное число массива : " + maxArrayNum);
+           System.out.println("и имеет индекс: " + indexMaxNum);
+    }   }
